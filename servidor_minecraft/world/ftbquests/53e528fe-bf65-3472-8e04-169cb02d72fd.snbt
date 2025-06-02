@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "53e528febf6534728e04169cb02d72fd"
+	name: "Safexinho#53e528fe"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1748827320520L
+		2574E7CF699D5B45: 1748827320520L
+		0470194500CBE26C: 1748827320520L
+		0000000000000001: 1748827320520L
+	}
+	completed: {
+		2574E7CF699D5B45: 1748827320521L
+		0470194500CBE26C: 1748827320521L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

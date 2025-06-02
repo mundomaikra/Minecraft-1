@@ -1,0 +1,17 @@
+{
+	id: "53e528fe-bf65-3472-8e04-169cb02d72fd"
+	type: "player"
+	player_name: "Safexinho"
+	ranks: {
+		53e528fe-bf65-3472-8e04-169cb02d72fd: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Safexinho"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFA259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "72b031a41be13ee1ad532cb734e0795f"
+	name: "Sadnni#72b031a4"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1748824919419L
+		2574E7CF699D5B45: 1748824919419L
+		0470194500CBE26C: 1748824919419L
+		0000000000000001: 1748824919419L
+	}
+	completed: {
+		2574E7CF699D5B45: 1748824919419L
+		0470194500CBE26C: 1748824919419L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}

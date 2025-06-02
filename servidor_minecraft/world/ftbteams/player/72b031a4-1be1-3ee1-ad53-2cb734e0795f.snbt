@@ -1,0 +1,17 @@
+{
+	id: "72b031a4-1be1-3ee1-ad53-2cb734e0795f"
+	type: "player"
+	player_name: "Sadnni"
+	ranks: {
+		72b031a4-1be1-3ee1-ad53-2cb734e0795f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sadnni"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5F59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

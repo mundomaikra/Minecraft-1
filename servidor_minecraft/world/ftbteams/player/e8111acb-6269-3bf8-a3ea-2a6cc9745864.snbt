@@ -1,0 +1,17 @@
+{
+	id: "e8111acb-6269-3bf8-a3ea-2a6cc9745864"
+	type: "player"
+	player_name: "BILALMZ"
+	ranks: {
+		e8111acb-6269-3bf8-a3ea-2a6cc9745864: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "BILALMZ"
+		"ftbteams:description": ""
+		"ftbteams:color": "#DF59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
