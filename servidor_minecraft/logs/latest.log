@@ -53,3 +53,22 @@
 [03Jun2025 00:20:15.200] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 816 chunks for dimension 'overworld' took 3 milliseconds
 [03Jun2025 00:20:24.137] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2178, y=-10, z=-2906}
 [03Jun2025 00:20:24.137] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2176, y=-10, z=-2905}
+[03Jun2025 00:21:21.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sadnni was slain by Vex
+[03Jun2025 00:24:45.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BILALMZ[/10.244.144.206:50377] logged in with entity id 7264 at (-2757.6685303311674, 63.0, -2787.869709673398)
+[03Jun2025 00:24:45.968] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to BILALMZ
+[03Jun2025 00:24:45.968] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to BILALMZ
+[03Jun2025 00:24:45.969] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to BILALMZ
+[03Jun2025 00:24:45.969] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to BILALMZ
+[03Jun2025 00:24:45.971] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to BILALMZ
+[03Jun2025 00:24:45.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to BILALMZ
+[03Jun2025 00:24:45.973] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to BILALMZ
+[03Jun2025 00:24:46.015] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player BILALMZ
+[03Jun2025 00:24:46.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BILALMZ joined the game
+[03Jun2025 00:24:46.125] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for e8111acb-6269-3bf8-a3ea-2a6cc9745864
+[03Jun2025 00:24:46.152] [Server thread/INFO] [Jade/]: Syncing config to BILALMZ (e8111acb-6269-3bf8-a3ea-2a6cc9745864)
+[03Jun2025 00:24:55.632] [Server thread/INFO] [ping-wheel/]: Channel update: BILALMZ -> default
+[03Jun2025 00:25:15.177] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 828 chunks for dimension 'overworld' took 2 milliseconds
+[03Jun2025 00:25:51.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Sadnni> -2327 -3158
+[03Jun2025 00:26:05.336] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2240, y=-9, z=-2805}
+[03Jun2025 00:26:05.336] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2240, y=-9, z=-2806}
+[03Jun2025 00:30:15.214] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 844 chunks for dimension 'overworld' took 2 milliseconds
