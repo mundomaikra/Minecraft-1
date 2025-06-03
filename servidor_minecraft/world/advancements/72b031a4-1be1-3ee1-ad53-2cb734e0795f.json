@@ -78,6 +78,7 @@
       "minecraft:frozen_river": "2025-06-02 02:18:15 +0000",
       "minecraft:birch_forest": "2025-06-03 01:09:07 +0000",
       "minecraft:beach": "2025-06-02 00:19:46 +0000",
+      "minecraft:dark_forest": "2025-06-03 01:21:23 +0000",
       "minecraft:river": "2025-06-02 00:19:59 +0000",
       "minecraft:lukewarm_ocean": "2025-06-02 01:25:13 +0000",
       "minecraft:stony_shore": "2025-06-02 01:27:14 +0000",
@@ -115,6 +116,7 @@
       "jade_cliffs": "2025-06-03 00:51:24 +0000",
       "wetland": "2025-06-02 02:14:44 +0000",
       "mystic_grove": "2025-06-02 01:39:39 +0000",
+      "old_growth_woodland": "2025-06-03 01:24:19 +0000",
       "field": "2025-06-02 01:40:47 +0000",
       "orchard": "2025-06-03 00:49:54 +0000",
       "overgrown_greens": "2025-06-03 01:10:34 +0000",
@@ -130,6 +132,7 @@
       "prairie": "2025-06-03 01:02:30 +0000",
       "snowy_fir_clearing": "2025-06-02 02:16:32 +0000",
       "snowy_coniferous_forest": "2025-06-02 02:29:25 +0000",
+      "rainforest": "2025-06-03 01:26:48 +0000",
       "crag": "2025-06-02 01:37:14 +0000",
       "snowy_maple_woods": "2025-06-02 02:29:27 +0000"
     },
@@ -6889,6 +6892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:22:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_table": {
     "criteria": {
       "has_spruce_table": "2025-06-03 00:22:02 +0000"
@@ -6910,6 +6919,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:22:19 +0000"
     },
     "done": true
   },
@@ -7057,6 +7072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:22:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-06-03 00:30:35 +0000"
@@ -7066,6 +7087,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-06-03 00:08:50 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:22:19 +0000"
     },
     "done": true
   },
@@ -7156,6 +7183,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-06-03 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:22:19 +0000"
     },
     "done": true
   },
@@ -7588,6 +7621,12 @@
   "supplementaries:recipes/soap/piston": {
     "criteria": {
       "has_sticky_piston": "2025-06-03 00:24:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:22:19 +0000"
     },
     "done": true
   },
@@ -8041,6 +8080,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:22:19 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/frostbright_bookshelf": {
     "criteria": {
       "has_item": "2025-06-03 00:30:35 +0000"
@@ -8164,6 +8209,12 @@
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-06-03 00:52:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:22:19 +0000"
     },
     "done": true
   },
@@ -9031,6 +9082,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:22:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_couch": {
     "criteria": {
       "has_cherry_couch": "2025-06-03 00:08:32 +0000"
@@ -9124,6 +9181,12 @@
   "supplementaries:recipes/sconce": {
     "criteria": {
       "has_iron_nugget": "2025-06-03 00:19:03 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/bellows": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:22:19 +0000"
     },
     "done": true
   },

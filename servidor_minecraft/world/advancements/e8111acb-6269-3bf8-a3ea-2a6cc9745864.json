@@ -5981,6 +5981,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_planks": {
     "criteria": {
       "has_log": "2025-06-03 00:28:47 +0000"
@@ -6011,9 +6023,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
   "croptopia:eatcrafted": {
     "criteria": {
       "eat_crafted": "2025-06-03 01:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:23:57 +0000"
     },
     "done": true
   },
@@ -6026,6 +6050,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-06-03 00:34:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:23:57 +0000"
     },
     "done": true
   },
@@ -6050,6 +6080,12 @@
   "betternether:recipes/transportation/nether_mushroom_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-06-03 00:27:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:23:57 +0000"
     },
     "done": true
   },
@@ -6143,6 +6179,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/shoji": {
     "criteria": {
       "has_item": "2025-06-03 00:34:55 +0000"
@@ -6173,6 +6215,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2025-06-03 00:50:31 +0000"
@@ -6185,9 +6233,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/green_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-06-03 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2025-06-03 01:23:57 +0000"
     },
     "done": true
   },
@@ -6212,6 +6272,12 @@
   "mcwdoors:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-06-03 00:28:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2025-06-03 01:23:57 +0000"
     },
     "done": true
   },
@@ -6335,9 +6401,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/mushroom_fir_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-06-03 00:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beef_jerky": {
+    "criteria": {
+      "has_beef": "2025-06-03 01:23:57 +0000"
     },
     "done": true
   },
@@ -6350,6 +6434,12 @@
   "aether:recipes/building_blocks/packed_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-06-03 01:16:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 01:23:57 +0000"
     },
     "done": true
   },
@@ -6380,6 +6470,12 @@
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-06-03 00:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:23:57 +0000"
     },
     "done": true
   },
@@ -6515,6 +6611,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/food/beef_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_cherry_crib": {
     "criteria": {
       "has_cherry_planks": "2025-06-03 00:29:30 +0000"
@@ -6539,9 +6641,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-06-03 00:58:46 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/food/pork_jerky": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 01:23:57 +0000"
     },
     "done": true
   },
@@ -6602,6 +6716,18 @@
   "betternether:recipes/transportation/wart_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-06-03 00:27:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-06-03 01:23:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-03 01:23:57 +0000"
     },
     "done": true
   },
