@@ -96,3 +96,49 @@
 [03Jun2025 00:55:56.744] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [03Jun2025 00:59:13.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BILALMZ has made the advancement [Ol' Betsy]
 [03Jun2025 01:00:15.156] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1155 chunks for dimension 'overworld' took 4 milliseconds
+[03Jun2025 01:03:38.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sadnni has made the advancement [Amateur Archaeologist]
+[03Jun2025 01:05:15.188] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1236 chunks for dimension 'overworld' took 3 milliseconds
+[03Jun2025 01:05:54.185] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[03Jun2025 01:05:54.185] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[03Jun2025 01:05:54.185] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[03Jun2025 01:05:54.186] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03Jun2025 01:05:54.186] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[03Jun2025 01:05:54.187] [Worker-Main-36/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03Jun2025 01:06:11.423] [Worker-Main-59/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[03Jun2025 01:06:11.423] [Worker-Main-59/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[03Jun2025 01:06:11.423] [Worker-Main-59/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[03Jun2025 01:06:11.423] [Worker-Main-59/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[03Jun2025 01:06:11.424] [Worker-Main-59/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[03Jun2025 01:06:11.424] [Worker-Main-59/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[03Jun2025 01:06:27.641] [Worker-Main-35/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[03Jun2025 01:06:27.642] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[03Jun2025 01:06:27.642] [Worker-Main-35/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[03Jun2025 01:06:27.642] [Worker-Main-35/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[03Jun2025 01:06:27.643] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[03Jun2025 01:06:27.643] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[03Jun2025 01:06:27.707] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[03Jun2025 01:06:27.707] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[03Jun2025 01:06:27.707] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[03Jun2025 01:06:27.707] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[03Jun2025 01:06:27.707] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[03Jun2025 01:06:37.512] [Worker-Main-60/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;-1353682252,-1439086332,-1319302581,-624197741],type:"minecraft:entity",y_offset:0.36f}}]
+[03Jun2025 01:07:03.306] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[03Jun2025 01:07:03.307] [Worker-Main-35/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[03Jun2025 01:07:03.307] [Worker-Main-35/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[03Jun2025 01:07:03.307] [Worker-Main-35/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[03Jun2025 01:07:03.308] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[03Jun2025 01:07:03.308] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[03Jun2025 01:07:03.308] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[03Jun2025 01:07:03.308] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[03Jun2025 01:07:03.308] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[03Jun2025 01:07:03.309] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[03Jun2025 01:07:03.309] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[03Jun2025 01:07:03.309] [Worker-Main-35/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[03Jun2025 01:07:03.309] [Worker-Main-35/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[03Jun2025 01:07:03.309] [Worker-Main-35/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[03Jun2025 01:07:03.310] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[03Jun2025 01:07:03.310] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[03Jun2025 01:07:03.310] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[03Jun2025 01:07:03.310] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[03Jun2025 01:09:37.779] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Jun2025 01:10:15.232] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1398 chunks for dimension 'overworld' took 4 milliseconds

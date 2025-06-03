@@ -76,6 +76,7 @@
       "minecraft:taiga": "2025-06-02 01:42:41 +0000",
       "minecraft:deep_ocean": "2025-06-02 01:32:39 +0000",
       "minecraft:frozen_river": "2025-06-02 02:17:14 +0000",
+      "minecraft:birch_forest": "2025-06-03 01:09:07 +0000",
       "minecraft:beach": "2025-06-02 01:25:25 +0000",
       "minecraft:dark_forest": "2025-06-02 01:39:25 +0000",
       "minecraft:lukewarm_ocean": "2025-06-02 01:25:13 +0000",
@@ -93,7 +94,8 @@
       "minecraft:snowy_beach": "2025-06-03 00:41:57 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-02 01:28:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-02 01:39:21 +0000",
-      "minecraft:savanna": "2025-06-02 01:13:45 +0000"
+      "minecraft:savanna": "2025-06-02 01:13:45 +0000",
+      "minecraft:plains": "2025-06-03 01:02:30 +0000"
     },
     "done": false
   },
@@ -2718,8 +2720,10 @@
       "coniferous_forest": "2025-06-02 02:14:43 +0000",
       "hot_springs": "2025-06-02 02:15:48 +0000",
       "old_growth_dead_forest": "2025-06-02 02:29:58 +0000",
+      "pasture": "2025-06-03 01:02:35 +0000",
       "pumpkin_patch": "2025-06-03 00:49:05 +0000",
       "grassland": "2025-06-02 01:39:57 +0000",
+      "prairie": "2025-06-03 01:02:32 +0000",
       "snowy_coniferous_forest": "2025-06-02 02:29:25 +0000",
       "snowy_fir_clearing": "2025-06-02 02:16:34 +0000",
       "crag": "2025-06-02 01:37:14 +0000",
@@ -3754,6 +3758,8 @@
       "spruce_house_medium_1": "2025-06-02 01:44:49 +0000",
       "cherry_house_medium_1": "2025-06-03 00:15:45 +0000",
       "frozen_house_medium_1": "2025-06-03 00:42:49 +0000",
+      "oak_house_small_3": "2025-06-03 01:06:31 +0000",
+      "oak_house_small_2": "2025-06-03 01:03:54 +0000",
       "birch_house_small_2": "2025-06-03 00:56:38 +0000",
       "spruce_house_small_2": "2025-06-02 02:19:19 +0000"
     },
@@ -4611,6 +4617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-06-03 00:32:42 +0000"
@@ -4638,6 +4650,12 @@
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-06-03 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/lime_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -4713,6 +4731,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/candle_holders/candle_holder_light_gray": {
     "criteria": {
       "has_iron_ingot": "2025-06-03 00:32:43 +0000"
@@ -4722,6 +4752,12 @@
   "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
       "has_cobblestone": "2025-06-03 00:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -4758,6 +4794,12 @@
   "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -4800,6 +4842,24 @@
   "bclib:recipes/misc/tag_bucket": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-06-03 00:32:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -4890,6 +4950,12 @@
   "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 00:33:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -5025,6 +5091,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/needle_and_thread": {
     "criteria": {
       "has_item": "2025-06-03 00:32:43 +0000"
@@ -5034,6 +5106,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
     "criteria": {
       "has_item": "2025-06-03 00:13:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -5103,6 +5181,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/flame_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
@@ -5160,6 +5244,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-06-03 00:33:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -5349,6 +5439,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-06-03 01:07:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 00:33:39 +0000"
@@ -5415,9 +5511,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/brown_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2025-06-03 00:13:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-06-03 01:07:15 +0000"
     },
     "done": true
   },
@@ -5466,6 +5574,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-06-03 00:32:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/red_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -5529,9 +5643,27 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-06-03 01:07:14 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cherry_log_bridge_middle": {
     "criteria": {
       "has_planks": "2025-06-03 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -5643,9 +5775,21 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/item_shelf_birch": {
+    "criteria": {
+      "has_item": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/comet_bookshelf": {
     "criteria": {
       "has_item": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -5658,6 +5802,12 @@
   "betterend:recipes/misc/respiration_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -5745,9 +5895,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-06-03 00:32:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-06-03 01:07:14 +0000"
     },
     "done": true
   },
@@ -5766,6 +5928,12 @@
   "betterend:recipes/misc/power_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -5865,6 +6033,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-06-03 00:18:55 +0000"
@@ -5913,6 +6087,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/purple_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_cupboard": {
     "criteria": {
       "has_cherry_cupboard": "2025-06-03 00:25:14 +0000"
@@ -5943,15 +6123,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 00:33:39 +0000"
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-06-03 01:07:14 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/blueprint": {
     "criteria": {
       "has_item": "2025-06-03 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -5964,6 +6168,12 @@
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-06-03 00:32:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-06-03 01:07:14 +0000"
     },
     "done": true
   },
@@ -6327,6 +6537,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/birch_support": {
+    "criteria": {
+      "has_plank": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-06-03 00:18:55 +0000"
@@ -6399,6 +6615,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/light_gray_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tile_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 00:33:39 +0000"
@@ -6408,6 +6630,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
     "criteria": {
       "has_item": "2025-06-03 00:13:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/blue_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -6537,6 +6765,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/cincinnasite_sword_diamond": {
     "criteria": {
       "has_item.minecraft.diamond": "2025-06-03 00:32:42 +0000"
@@ -6570,6 +6804,12 @@
   "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 00:33:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -6630,6 +6870,12 @@
   "betterend:recipes/misc/luck_of_sea_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -6723,6 +6969,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-03 00:18:30 +0000"
@@ -6783,6 +7035,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cooking_pot": {
     "criteria": {
       "has_iron_ingot": "2025-06-03 00:32:43 +0000"
@@ -6819,9 +7083,33 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_item": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/riptide_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-06-03 01:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -6894,6 +7182,12 @@
   "bclib:recipes/transportation/tag_minecart": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-06-03 00:32:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -7017,6 +7311,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/mending_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
@@ -7065,6 +7365,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/feather_falling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
@@ -7104,6 +7416,12 @@
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -7203,6 +7521,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2025-06-03 00:21:43 +0000"
@@ -7212,6 +7536,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-06-03 00:14:22 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -7263,9 +7593,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-06-03 01:07:15 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/cobblestone_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-03 00:13:47 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -7305,6 +7647,12 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2025-06-03 00:14:05 +0000"
@@ -7329,6 +7677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_pillar_trim": {
     "criteria": {
       "has_cherry_pillar_trim": "2025-06-03 00:25:14 +0000"
@@ -7338,6 +7692,12 @@
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 00:33:39 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },
@@ -7356,6 +7716,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-03 00:32:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_birch_crib": {
+    "criteria": {
+      "has_birch_planks": "2025-06-03 01:01:01 +0000"
     },
     "done": true
   },

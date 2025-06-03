@@ -106,8 +106,10 @@
       "coniferous_forest": "2025-06-02 02:14:34 +0000",
       "hot_springs": "2025-06-02 02:15:41 +0000",
       "old_growth_dead_forest": "2025-06-02 02:29:57 +0000",
+      "pasture": "2025-06-03 01:02:31 +0000",
       "pumpkin_patch": "2025-06-03 00:49:03 +0000",
       "grassland": "2025-06-02 01:39:41 +0000",
+      "prairie": "2025-06-03 01:02:29 +0000",
       "snowy_coniferous_forest": "2025-06-02 02:29:25 +0000",
       "snowy_fir_clearing": "2025-06-02 02:16:32 +0000",
       "crag": "2025-06-02 01:37:14 +0000",
@@ -1512,6 +1514,7 @@
       "spruce_house_medium_1": "2025-06-02 01:44:41 +0000",
       "frozen_house_medium_1": "2025-06-03 00:42:49 +0000",
       "oak_house_small_3": "2025-06-02 00:59:55 +0000",
+      "oak_house_small_2": "2025-06-03 01:03:38 +0000",
       "birch_house_small_2": "2025-06-03 00:56:39 +0000"
     },
     "done": false
@@ -6602,6 +6605,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-03 00:34:41 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-03 01:07:41 +0000"
     },
     "done": true
   },
