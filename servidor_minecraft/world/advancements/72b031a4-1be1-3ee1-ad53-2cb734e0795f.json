@@ -80,13 +80,16 @@
       "minecraft:river": "2025-06-02 00:19:59 +0000",
       "minecraft:lukewarm_ocean": "2025-06-02 01:25:13 +0000",
       "minecraft:stony_shore": "2025-06-02 01:27:14 +0000",
+      "minecraft:snowy_plains": "2025-06-03 00:42:20 +0000",
       "minecraft:snowy_taiga": "2025-06-02 02:16:37 +0000",
       "minecraft:cold_ocean": "2025-06-02 01:36:10 +0000",
       "minecraft:forest": "2025-06-02 01:25:57 +0000",
       "minecraft:deep_cold_ocean": "2025-06-02 01:35:52 +0000",
+      "minecraft:frozen_ocean": "2025-06-03 00:41:41 +0000",
       "minecraft:windswept_forest": "2025-06-02 23:48:36 +0000",
       "minecraft:ocean": "2025-06-02 01:32:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-02 01:43:23 +0000",
+      "minecraft:snowy_beach": "2025-06-03 00:41:55 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-02 01:28:37 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-02 01:39:33 +0000",
       "minecraft:savanna": "2025-06-01 23:15:09 +0000"
@@ -105,14 +108,18 @@
       "woodland": "2025-06-02 01:27:32 +0000",
       "shrubland": "2025-06-02 01:38:57 +0000",
       "snowblossom_grove": "2025-06-02 02:29:31 +0000",
+      "rocky_shrubland": "2025-06-03 00:50:02 +0000",
+      "highland": "2025-06-03 00:49:29 +0000",
       "wetland": "2025-06-02 02:14:44 +0000",
       "mystic_grove": "2025-06-02 01:39:39 +0000",
       "field": "2025-06-02 01:40:47 +0000",
+      "orchard": "2025-06-03 00:49:54 +0000",
       "mediterranean_forest": "2025-06-02 00:17:33 +0000",
       "coniferous_forest": "2025-06-02 02:14:39 +0000",
       "hot_springs": "2025-06-02 02:15:41 +0000",
       "old_growth_dead_forest": "2025-06-02 02:29:58 +0000",
       "dead_forest": "2025-06-02 02:29:26 +0000",
+      "pumpkin_patch": "2025-06-03 00:49:05 +0000",
       "grassland": "2025-06-02 01:39:46 +0000",
       "snowy_fir_clearing": "2025-06-02 02:16:32 +0000",
       "snowy_coniferous_forest": "2025-06-02 02:29:25 +0000",
@@ -3798,6 +3805,7 @@
       "minecraft:pillager": "2025-06-02 23:50:14 +0000",
       "minecraft:skeleton": "2025-06-02 00:44:48 +0000",
       "minecraft:vindicator": "2025-06-03 00:18:35 +0000",
+      "minecraft:spider": "2025-06-03 00:46:01 +0000",
       "minecraft:vex": "2025-06-03 00:23:49 +0000",
       "minecraft:zombie": "2025-06-02 01:39:05 +0000"
     },
@@ -4719,6 +4727,7 @@
     "criteria": {
       "cooked_mutton": "2025-06-02 02:11:29 +0000",
       "baked_potato": "2025-06-02 23:50:04 +0000",
+      "beetroot_soup": "2025-06-03 00:43:27 +0000",
       "apple": "2025-06-02 01:06:55 +0000",
       "golden_apple": "2025-06-02 01:42:17 +0000",
       "bread": "2025-06-03 00:08:12 +0000",
@@ -6312,7 +6321,8 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "spruce_house_medium_1": "2025-06-02 01:44:38 +0000",
-      "cherry_house_medium_1": "2025-06-02 23:52:51 +0000"
+      "cherry_house_medium_1": "2025-06-02 23:52:51 +0000",
+      "frozen_house_medium_1": "2025-06-03 00:42:48 +0000"
     },
     "done": false
   },
@@ -6916,6 +6926,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-06-03 00:44:01 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_dining_bench": {
     "criteria": {
       "has_spruce_dining_bench": "2025-06-03 00:22:02 +0000"
@@ -7174,6 +7190,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-03 00:44:01 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/mossy_cobblestone_brick_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-06-03 00:18:26 +0000"
@@ -7243,6 +7265,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-03 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2025-06-03 00:47:18 +0000"
     },
     "done": true
   },
@@ -7876,6 +7904,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
+    "criteria": {
+      "location1": "2025-06-03 00:45:03 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/granite_bridge_stair": {
     "criteria": {
       "has_planks": "2025-06-03 00:09:19 +0000"
@@ -7966,6 +8000,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-06-03 00:47:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-06-03 00:22:02 +0000"
@@ -8035,6 +8075,12 @@
   "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 00:30:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-03 00:44:01 +0000"
     },
     "done": true
   },
@@ -8566,6 +8612,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/misc/mortar_and_pestle": {
+    "criteria": {
+      "has_bowl": "2025-06-03 00:43:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-06-03 00:09:19 +0000"
@@ -8752,9 +8804,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-03 00:47:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 00:30:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-06-03 00:47:18 +0000"
     },
     "done": true
   },
@@ -8977,6 +9041,12 @@
   "another_furniture:recipes/spruce_chair": {
     "criteria": {
       "has_planks": "2025-06-03 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2025-06-03 00:44:01 +0000"
     },
     "done": true
   },

@@ -82,3 +82,11 @@
 [03Jun2025 00:41:15.223] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [03Jun2025 00:41:15.224] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [03Jun2025 00:41:15.224] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:44:41.638] [Worker-Main-60/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Jun2025 00:45:02.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BILALMZ has made the advancement [You Are A Pirate]
+[03Jun2025 00:45:03.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Safexinho has made the advancement [You Are A Pirate]
+[03Jun2025 00:45:03.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sadnni has made the advancement [You Are A Pirate]
+[03Jun2025 00:45:15.158] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1001 chunks for dimension 'overworld' took 3 milliseconds
+[03Jun2025 00:47:55.146] [Server thread/WARN] [Puzzles Lib/]: Requesting invalid capability fastitemframes:item_frame_color for type fuzs/fastitemframes/capability/ItemFrameColorCapability from holder ItemFrame['Item Frame'/21884, l='ServerLevel[world]', x=-2814.50, y=36.03, z=-4424.50, removed=DISCARDED]
+[03Jun2025 00:50:15.177] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1091 chunks for dimension 'overworld' took 3 milliseconds
+[03Jun2025 00:50:21.778] [Worker-Main-36/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
