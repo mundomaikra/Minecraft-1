@@ -84,6 +84,7 @@
       "minecraft:cold_ocean": "2025-06-02 01:36:10 +0000",
       "minecraft:forest": "2025-06-02 01:25:57 +0000",
       "minecraft:deep_cold_ocean": "2025-06-02 01:35:52 +0000",
+      "minecraft:windswept_forest": "2025-06-02 23:48:36 +0000",
       "minecraft:ocean": "2025-06-02 01:32:16 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-06-02 01:43:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-02 01:28:37 +0000",
@@ -3794,6 +3795,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-06-02 23:50:14 +0000",
       "minecraft:skeleton": "2025-06-02 00:44:48 +0000",
       "minecraft:zombie": "2025-06-02 01:39:05 +0000"
     },
@@ -4714,6 +4716,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-06-02 02:11:29 +0000",
+      "baked_potato": "2025-06-02 23:50:04 +0000",
       "apple": "2025-06-02 01:06:55 +0000",
       "golden_apple": "2025-06-02 01:42:17 +0000",
       "cooked_rabbit": "2025-06-02 02:20:11 +0000",
@@ -6305,7 +6308,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "spruce_house_medium_1": "2025-06-02 01:44:38 +0000"
+      "spruce_house_medium_1": "2025-06-02 01:44:38 +0000",
+      "cherry_house_medium_1": "2025-06-02 23:52:51 +0000"
     },
     "done": false
   },
@@ -6674,6 +6678,150 @@
       "in_temple_taiga": "2025-06-02 02:14:09 +0000"
     },
     "done": false
+  },
+  "galosphere:recipes/misc/silver_upgrade_smithing_template": {
+    "criteria": {
+      "has_silver_upgrade_smithing_template": "2025-06-02 23:49:33 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_cushion": {
+    "criteria": {
+      "has_purple_cushion": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/purple_sheet": {
+    "criteria": {
+      "has_purple_sheet": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_sofa": {
+    "criteria": {
+      "has_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-06-02 23:48:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_bed": {
+    "criteria": {
+      "has_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-06-02 23:51:53 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_purple": {
+    "criteria": {
+      "has_purple_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_lamp": {
+    "criteria": {
+      "has_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-06-02 23:50:26 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_stool": {
+    "criteria": {
+      "has_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-06-02 23:49:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/purple_curtain": {
+    "criteria": {
+      "has_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-02 23:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-06-02 23:48:53 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:gems/emerald]": "2025-06-02 23:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2025-06-02 23:48:49 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/white_dye_from_white_petals": {
+    "criteria": {
+      "has_white_petals": "2025-06-02 23:49:25 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-06-02 23:50:27 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
