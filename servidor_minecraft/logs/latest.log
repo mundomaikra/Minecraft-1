@@ -90,3 +90,9 @@
 [03Jun2025 00:47:55.146] [Server thread/WARN] [Puzzles Lib/]: Requesting invalid capability fastitemframes:item_frame_color for type fuzs/fastitemframes/capability/ItemFrameColorCapability from holder ItemFrame['Item Frame'/21884, l='ServerLevel[world]', x=-2814.50, y=36.03, z=-4424.50, removed=DISCARDED]
 [03Jun2025 00:50:15.177] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1091 chunks for dimension 'overworld' took 3 milliseconds
 [03Jun2025 00:50:21.778] [Worker-Main-36/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Jun2025 00:54:37.749] [Worker-Main-59/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Jun2025 00:54:42.145] [Worker-Main-36/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[03Jun2025 00:55:15.180] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1130 chunks for dimension 'overworld' took 3 milliseconds
+[03Jun2025 00:55:56.744] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Jun2025 00:59:13.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BILALMZ has made the advancement [Ol' Betsy]
+[03Jun2025 01:00:15.156] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1155 chunks for dimension 'overworld' took 4 milliseconds

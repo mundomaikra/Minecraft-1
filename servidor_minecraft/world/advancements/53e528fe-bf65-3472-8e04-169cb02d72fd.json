@@ -2709,6 +2709,7 @@
       "snowblossom_grove": "2025-06-02 02:29:32 +0000",
       "rocky_shrubland": "2025-06-03 00:50:03 +0000",
       "highland": "2025-06-03 00:49:29 +0000",
+      "jade_cliffs": "2025-06-03 00:51:25 +0000",
       "wetland": "2025-06-02 02:14:53 +0000",
       "mystic_grove": "2025-06-02 01:40:00 +0000",
       "field": "2025-06-02 01:40:48 +0000",
@@ -3753,6 +3754,7 @@
       "spruce_house_medium_1": "2025-06-02 01:44:49 +0000",
       "cherry_house_medium_1": "2025-06-03 00:15:45 +0000",
       "frozen_house_medium_1": "2025-06-03 00:42:49 +0000",
+      "birch_house_small_2": "2025-06-03 00:56:38 +0000",
       "spruce_house_small_2": "2025-06-02 02:19:19 +0000"
     },
     "done": false
@@ -4723,6 +4725,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-06-03 00:53:08 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-06-03 00:13:47 +0000"
@@ -4927,6 +4935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-06-03 00:51:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-06-03 00:13:47 +0000"
@@ -4966,6 +4980,12 @@
   "galosphere:recipes/decorations/chandelier": {
     "criteria": {
       "has_copper_ingot": "2025-06-03 00:32:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-06-03 00:53:46 +0000"
     },
     "done": true
   },
@@ -5050,6 +5070,12 @@
   "mcwfurnitures:recipes/cherry": {
     "criteria": {
       "has_wood": "2025-06-03 00:22:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-03 00:53:08 +0000"
     },
     "done": true
   },
@@ -5152,6 +5178,12 @@
   "handcrafted:recipes/misc/cherry_drawer": {
     "criteria": {
       "has_cherry_drawer": "2025-06-03 00:25:14 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_blinding_stone": {
+    "criteria": {
+      "has_item": "2025-06-03 00:52:37 +0000"
     },
     "done": true
   },
@@ -5335,6 +5367,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-06-03 00:53:46 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 00:21:43 +0000"
@@ -5416,6 +5454,12 @@
   "twigs:recipes/paper_lanterns/paper_lantern": {
     "criteria": {
       "has_item": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-03 00:52:37 +0000"
     },
     "done": true
   },
@@ -5536,6 +5580,12 @@
   "betterend:recipes/misc/copy_netherite_upgrade": {
     "criteria": {
       "has_diamond": "2025-06-03 00:32:42 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-06-03 00:53:46 +0000"
     },
     "done": true
   },
@@ -5734,6 +5784,18 @@
   "supplementaries:recipes/candle_holders/candle_holder_cyan": {
     "criteria": {
       "has_iron_ingot": "2025-06-03 00:32:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-03 00:52:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_nature_stone": {
+    "criteria": {
+      "has_item": "2025-06-03 00:52:37 +0000"
     },
     "done": true
   },
@@ -6061,6 +6123,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-06-03 00:53:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 00:21:43 +0000"
@@ -6136,6 +6204,12 @@
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-06-03 00:13:47 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/glowing_poison_stone": {
+    "criteria": {
+      "has_item": "2025-06-03 00:52:37 +0000"
     },
     "done": true
   },
@@ -6226,6 +6300,12 @@
   "blue_skies:recipes/building_blocks/starlit_bookshelf": {
     "criteria": {
       "has_item": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-06-03 00:51:35 +0000"
     },
     "done": true
   },
@@ -6577,6 +6657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-03 00:53:46 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2025-06-03 00:32:43 +0000"
@@ -6646,6 +6732,12 @@
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-06-03 00:51:36 +0000"
     },
     "done": true
   },
@@ -7045,6 +7137,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/glowing_nature_stonebrick_from_glowstone": {
+    "criteria": {
+      "has_item": "2025-06-03 00:52:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-06-03 00:32:43 +0000"
@@ -7171,6 +7269,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-06-03 00:53:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/white_dye_from_white_petals": {
     "criteria": {
       "has_white_petals": "2025-06-03 00:18:29 +0000"
@@ -7252,6 +7356,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-06-03 00:32:42 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2025-06-03 00:53:08 +0000"
     },
     "done": true
   },
