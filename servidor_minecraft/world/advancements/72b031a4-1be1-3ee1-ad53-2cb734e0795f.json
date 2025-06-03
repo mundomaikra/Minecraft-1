@@ -117,10 +117,12 @@
       "mystic_grove": "2025-06-02 01:39:39 +0000",
       "field": "2025-06-02 01:40:47 +0000",
       "orchard": "2025-06-03 00:49:54 +0000",
+      "overgrown_greens": "2025-06-03 01:10:34 +0000",
       "mediterranean_forest": "2025-06-02 00:17:33 +0000",
       "coniferous_forest": "2025-06-02 02:14:39 +0000",
       "hot_springs": "2025-06-02 02:15:41 +0000",
       "old_growth_dead_forest": "2025-06-02 02:29:58 +0000",
+      "redwood_forest": "2025-06-03 01:14:03 +0000",
       "dead_forest": "2025-06-02 02:29:26 +0000",
       "pasture": "2025-06-03 01:02:33 +0000",
       "pumpkin_patch": "2025-06-03 00:49:05 +0000",
@@ -6328,6 +6330,7 @@
       "spruce_house_medium_1": "2025-06-02 01:44:38 +0000",
       "cherry_house_medium_1": "2025-06-02 23:52:51 +0000",
       "frozen_house_medium_1": "2025-06-03 00:42:48 +0000",
+      "oak_house_large_1": "2025-06-03 01:16:08 +0000",
       "oak_house_small_3": "2025-06-03 01:06:30 +0000",
       "oak_house_small_2": "2025-06-03 01:03:34 +0000",
       "birch_house_small_2": "2025-06-03 00:56:37 +0000"
@@ -6946,6 +6949,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-06-03 01:16:18 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-06-03 00:08:50 +0000"
@@ -6955,6 +6964,12 @@
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-06-03 00:30:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-03 01:16:27 +0000"
     },
     "done": true
   },
@@ -7096,6 +7111,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-06-03 01:16:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:30:35 +0000"
@@ -7126,9 +7147,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-06-03 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-06-03 01:16:18 +0000"
     },
     "done": true
   },
@@ -7207,6 +7240,12 @@
   "decorative_blocks:recipes/building_blocks/cherry_seat": {
     "criteria": {
       "has_plank": "2025-06-03 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-03 01:16:27 +0000"
     },
     "done": true
   },
@@ -7348,9 +7387,21 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/spruce_rail_bridge": {
     "criteria": {
       "has_planks": "2025-06-03 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
     },
     "done": true
   },
@@ -7660,6 +7711,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_bench": {
     "criteria": {
       "has_cherry_bench": "2025-06-03 00:08:32 +0000"
@@ -7693,6 +7750,12 @@
   "mca:recipes/misc/books": {
     "criteria": {
       "has_item": "2025-06-03 00:30:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
     },
     "done": true
   },
@@ -7759,6 +7822,12 @@
   "betterend:recipes/misc/soul_speed_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:30:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
     },
     "done": true
   },
@@ -7954,6 +8023,18 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_plates_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 00:09:19 +0000"
@@ -7975,6 +8056,12 @@
   "decorative_blocks:recipes/building_blocks/spruce_support": {
     "criteria": {
       "has_plank": "2025-06-03 00:22:02 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
     },
     "done": true
   },
@@ -8221,6 +8308,12 @@
   "twigs:recipes/cobblestone_from_pebble": {
     "criteria": {
       "has_item": "2025-06-03 00:33:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-03 01:16:27 +0000"
     },
     "done": true
   },
@@ -8590,6 +8683,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-06-03 01:16:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/silk_touch_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:30:35 +0000"
@@ -8599,6 +8698,12 @@
   "another_furniture:recipes/service_bell": {
     "criteria": {
       "has_nugget": "2025-06-03 00:19:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
     },
     "done": true
   },
@@ -8647,6 +8752,12 @@
   "mcwbridges:recipes/spruce_bridge_pier": {
     "criteria": {
       "has_planks": "2025-06-03 00:21:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
     },
     "done": true
   },
@@ -8899,6 +9010,12 @@
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-06-03 00:08:32 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chest": "2025-06-03 01:18:33 +0000"
     },
     "done": true
   },

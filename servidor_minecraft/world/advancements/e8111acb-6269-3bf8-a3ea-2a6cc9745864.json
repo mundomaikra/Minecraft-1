@@ -102,10 +102,12 @@
       "mystic_grove": "2025-06-02 01:39:42 +0000",
       "field": "2025-06-02 01:40:47 +0000",
       "orchard": "2025-06-03 00:49:52 +0000",
+      "overgrown_greens": "2025-06-03 01:10:21 +0000",
       "mediterranean_forest": "2025-06-02 00:17:33 +0000",
       "coniferous_forest": "2025-06-02 02:14:34 +0000",
       "hot_springs": "2025-06-02 02:15:41 +0000",
       "old_growth_dead_forest": "2025-06-02 02:29:57 +0000",
+      "redwood_forest": "2025-06-03 01:14:03 +0000",
       "pasture": "2025-06-03 01:02:31 +0000",
       "pumpkin_patch": "2025-06-03 00:49:03 +0000",
       "grassland": "2025-06-02 01:39:41 +0000",
@@ -1513,6 +1515,7 @@
     "criteria": {
       "spruce_house_medium_1": "2025-06-02 01:44:41 +0000",
       "frozen_house_medium_1": "2025-06-03 00:42:49 +0000",
+      "oak_house_large_1": "2025-06-03 01:16:12 +0000",
       "oak_house_small_3": "2025-06-02 00:59:55 +0000",
       "oak_house_small_2": "2025-06-03 01:03:38 +0000",
       "birch_house_small_2": "2025-06-03 00:56:39 +0000"
@@ -6002,6 +6005,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/onion_rings": {
+    "criteria": {
+      "has_onions": "2025-06-03 01:18:23 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-06-03 01:12:55 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-06-03 00:34:55 +0000"
@@ -6038,9 +6053,27 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-06-03 01:16:30 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2025-06-03 01:12:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_button": {
     "criteria": {
       "has_planks": "2025-06-03 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-06-03 01:18:23 +0000"
     },
     "done": true
   },
@@ -6122,15 +6155,33 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-06-03 01:16:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/misc/apple_sapling": {
     "criteria": {
       "has_apple": "2025-06-03 00:56:52 +0000"
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "toast": "2025-06-03 01:12:53 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/tools/iron_axe_repairing": {
     "criteria": {
       "has_iron_axe": "2025-06-03 00:50:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 01:18:23 +0000"
     },
     "done": true
   },
@@ -6230,6 +6281,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2025-06-03 01:12:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/anchor_tree_chest_boat": {
     "criteria": {
       "has_tag_c_chest": "2025-06-03 00:27:36 +0000"
@@ -6290,6 +6347,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-06-03 01:16:30 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
       "has_tag_c_chest": "2025-06-03 00:27:36 +0000"
@@ -6332,6 +6395,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-06-03 01:16:30 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_counter": {
     "criteria": {
       "has_cherry_counter": "2025-06-03 00:29:30 +0000"
@@ -6356,6 +6425,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-06-03 01:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_wood": {
     "criteria": {
       "has_log": "2025-06-03 00:28:47 +0000"
@@ -6377,6 +6452,18 @@
   "handcrafted:recipes/misc/cherry_dining_bench": {
     "criteria": {
       "has_cherry_dining_bench": "2025-06-03 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_c_water_bottles": "2025-06-03 01:16:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 01:18:23 +0000"
     },
     "done": true
   },
@@ -6434,9 +6521,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_water_bucket": "2025-06-03 01:16:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-06-03 00:38:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-06-03 01:18:23 +0000"
     },
     "done": true
   },
@@ -6476,6 +6575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-06-03 01:16:30 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/present": {
     "criteria": {
       "has_paper": "2025-06-03 00:34:55 +0000"
@@ -6500,6 +6605,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-06-03 01:18:23 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_couch": {
     "criteria": {
       "has_cherry_couch": "2025-06-03 00:29:30 +0000"
@@ -6509,6 +6620,12 @@
   "minecraft:recipes/building_blocks/cherry_slab": {
     "criteria": {
       "has_planks": "2025-06-03 00:29:30 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-06-03 01:18:22 +0000"
     },
     "done": true
   },
@@ -6578,6 +6695,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2025-06-03 01:16:30 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/cherry_shelf": {
     "criteria": {
       "has_cherry_shelf": "2025-06-03 00:29:30 +0000"
@@ -6605,6 +6728,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-06-03 00:34:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-06-03 01:18:23 +0000"
     },
     "done": true
   },

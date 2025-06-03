@@ -142,3 +142,16 @@
 [03Jun2025 01:07:03.310] [Worker-Main-35/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
 [03Jun2025 01:09:37.779] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [03Jun2025 01:10:15.232] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1398 chunks for dimension 'overworld' took 4 milliseconds
+[03Jun2025 01:12:55.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BILALMZ has made the advancement [Hearty Meal]
+[03Jun2025 01:15:06.861] [Worker-Main-36/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Jun2025 01:15:15.177] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1457 chunks for dimension 'overworld' took 4 milliseconds
+[03Jun2025 01:16:23.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Safexinho has made the advancement [Suit Up]
+[03Jun2025 01:16:24.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Safexinho has made the advancement [Isn't It Iron Pick]
+[03Jun2025 01:16:25.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sadnni has made the advancement [Suit Up]
+[03Jun2025 01:18:23.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BILALMZ has made the advancement [Crops of the Wild]
+[03Jun2025 01:20:15.164] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 1490 chunks for dimension 'overworld' took 5 milliseconds
+[03Jun2025 01:21:22.985] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3424, y=33, z=-943}
+[03Jun2025 01:21:41.984] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Safexinho lost connection: Disconnected
+[03Jun2025 01:21:41.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Safexinho left the game
+[03Jun2025 01:21:41.984] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 53e528fe-bf65-3472-8e04-169cb02d72fd
+[03Jun2025 01:21:46.646] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-3302, y=-16, z=-887}

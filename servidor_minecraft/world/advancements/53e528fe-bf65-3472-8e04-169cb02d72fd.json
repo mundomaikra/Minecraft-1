@@ -2716,10 +2716,12 @@
       "mystic_grove": "2025-06-02 01:40:00 +0000",
       "field": "2025-06-02 01:40:48 +0000",
       "orchard": "2025-06-03 00:49:55 +0000",
+      "overgrown_greens": "2025-06-03 01:10:34 +0000",
       "mediterranean_forest": "2025-06-02 01:24:19 +0000",
       "coniferous_forest": "2025-06-02 02:14:43 +0000",
       "hot_springs": "2025-06-02 02:15:48 +0000",
       "old_growth_dead_forest": "2025-06-02 02:29:58 +0000",
+      "redwood_forest": "2025-06-03 01:14:03 +0000",
       "pasture": "2025-06-03 01:02:35 +0000",
       "pumpkin_patch": "2025-06-03 00:49:05 +0000",
       "grassland": "2025-06-02 01:39:57 +0000",
@@ -3758,6 +3760,7 @@
       "spruce_house_medium_1": "2025-06-02 01:44:49 +0000",
       "cherry_house_medium_1": "2025-06-03 00:15:45 +0000",
       "frozen_house_medium_1": "2025-06-03 00:42:49 +0000",
+      "oak_house_large_1": "2025-06-03 01:16:18 +0000",
       "oak_house_small_3": "2025-06-03 01:06:31 +0000",
       "oak_house_small_2": "2025-06-03 01:03:54 +0000",
       "birch_house_small_2": "2025-06-03 00:56:38 +0000",
@@ -4695,6 +4698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-03 01:11:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 00:33:39 +0000"
@@ -4776,6 +4785,12 @@
   "supplementaries:recipes/wrench": {
     "criteria": {
       "has_copper_ingot": "2025-06-03 00:32:42 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-06-03 01:16:23 +0000"
     },
     "done": true
   },
@@ -4959,6 +4974,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-06-03 01:17:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-06-03 00:32:07 +0000"
@@ -4971,6 +4992,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-06-03 01:16:23 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
@@ -4980,6 +5007,12 @@
   "aether:recipes/redstone/skyroot_lectern": {
     "criteria": {
       "has_book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-03 01:16:24 +0000"
     },
     "done": true
   },
@@ -5151,6 +5184,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-06-03 01:16:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-06-03 00:53:08 +0000"
@@ -5250,6 +5289,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-06-03 01:01:01 +0000"
+    },
+    "done": true
+  },
+  "croptopia:root": {
+    "criteria": {
+      "root": "2025-06-03 01:17:09 +0000"
     },
     "done": true
   },
@@ -5397,6 +5442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-03 01:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-06-03 00:21:43 +0000"
@@ -5406,6 +5457,12 @@
   "betterend:recipes/misc/protection_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-06-03 01:16:35 +0000"
     },
     "done": true
   },
@@ -5565,6 +5622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-03 01:11:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2025-06-03 00:52:37 +0000"
@@ -5598,6 +5661,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-06-03 00:13:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-03 01:11:05 +0000"
     },
     "done": true
   },
@@ -5835,6 +5904,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/balustrade_mossy_stone_bricks_bridge": {
+    "criteria": {
+      "has_planks": "2025-06-03 01:11:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/unbreaking_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
@@ -5856,6 +5931,12 @@
   "betternether:recipes/building_blocks/willow_bookshelf": {
     "criteria": {
       "has_book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-06-03 01:16:37 +0000"
     },
     "done": true
   },
@@ -6030,6 +6111,12 @@
   "hearth_and_home:recipes/paper_lanterns": {
     "criteria": {
       "has_item": "2025-06-03 00:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-03 01:11:05 +0000"
     },
     "done": true
   },
@@ -6351,6 +6438,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-06-03 01:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-06-03 00:32:43 +0000"
@@ -6396,6 +6489,12 @@
   "supplementaries:recipes/candle_holders/candle_holder_magenta": {
     "criteria": {
       "has_iron_ingot": "2025-06-03 00:32:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-06-03 01:16:24 +0000"
     },
     "done": true
   },
@@ -6675,6 +6774,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-06-03 01:16:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-06-03 00:32:42 +0000"
@@ -6759,6 +6864,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-06-03 01:11:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/smart_module": {
     "criteria": {
       "has_iron": "2025-06-03 00:32:43 +0000"
@@ -6834,6 +6945,12 @@
   "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-06-03 00:33:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-06-03 01:16:23 +0000"
     },
     "done": true
   },
@@ -6984,6 +7101,12 @@
   "betterend:recipes/misc/impaling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/fishing_rod_repairing": {
+    "criteria": {
+      "has_fishing_rod": "2025-06-03 01:16:34 +0000"
     },
     "done": true
   },
@@ -7380,6 +7503,12 @@
   "betterend:recipes/misc/feather_falling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-06-03 00:21:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-06-03 01:16:36 +0000"
     },
     "done": true
   },
