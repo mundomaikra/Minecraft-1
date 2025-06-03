@@ -17,3 +17,39 @@
 [03Jun2025 00:08:14.170] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2193, y=-38, z=-3102}
 [03Jun2025 00:08:14.955] [Worker-Main-35/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2193, y=4, z=-3272}
 [03Jun2025 00:10:15.162] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 772 chunks for dimension 'overworld' took 3 milliseconds
+[03Jun2025 00:11:12.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Safexinho[/10.244.160.143:65361] logged in with entity id 4105 at (-2758.6875, 62.07319337129593, -2786.3125)
+[03Jun2025 00:11:12.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Safexinho
+[03Jun2025 00:11:12.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Safexinho
+[03Jun2025 00:11:12.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Safexinho
+[03Jun2025 00:11:12.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Safexinho
+[03Jun2025 00:11:12.784] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Safexinho
+[03Jun2025 00:11:12.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Safexinho
+[03Jun2025 00:11:12.787] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Safexinho
+[03Jun2025 00:11:12.834] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Safexinho
+[03Jun2025 00:11:12.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Safexinho joined the game
+[03Jun2025 00:11:12.840] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Boat['Boat'/4106, l='ServerLevel[world]', x=-2758.69, y=62.52, z=-2786.31] as it would cause deadlock
+[03Jun2025 00:11:12.955] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 53e528fe-bf65-3472-8e04-169cb02d72fd
+[03Jun2025 00:11:12.989] [Server thread/INFO] [Jade/]: Syncing config to Safexinho (53e528fe-bf65-3472-8e04-169cb02d72fd)
+[03Jun2025 00:11:13.655] [Server thread/INFO] [ping-wheel/]: Channel update: Safexinho -> default
+[03Jun2025 00:13:47.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Safexinho has made the advancement [Stone Age]
+[03Jun2025 00:14:22.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Safexinho has made the advancement [Getting an Upgrade]
+[03Jun2025 00:15:15.172] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 798 chunks for dimension 'overworld' took 3 milliseconds
+[03Jun2025 00:16:57.741] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:16:57.741] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:16:57.741] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:16:57.741] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:16:57.741] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:17:45.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sadnni has made the advancement [Hearty Meal]
+[03Jun2025 00:19:29.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Safexinho was slain by Vex
+[03Jun2025 00:19:48.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Safexinho was slain by Vex
+[03Jun2025 00:20:08.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Safexinho was slain by Vex
+[03Jun2025 00:20:08.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sadnni was slain by Vex
+[03Jun2025 00:20:14.510] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Jun2025 00:20:14.732] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:20:14.732] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:20:14.732] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:20:14.733] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:20:14.733] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Jun2025 00:20:15.200] [Server thread/INFO] [Chunk Activity Tracker/]: Saving data for 816 chunks for dimension 'overworld' took 3 milliseconds
+[03Jun2025 00:20:24.137] [Worker-Main-60/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2178, y=-10, z=-2906}
+[03Jun2025 00:20:24.137] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2176, y=-10, z=-2905}
